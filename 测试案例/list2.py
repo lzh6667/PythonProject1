@@ -27,3 +27,4 @@ new_list=num_list1+num_list2
 for num in num_list2:
     new_list.append(num)##
 print("去除重复元素的数组",new_list)
+print("你好")
