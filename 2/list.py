@@ -1,0 +1,12 @@
+massge=[1,2,3,4,5,6,7,8,9]
+print(massge[1])
+print(massge[-1])
+tools=["hello","world"]
+tools.append("lzh")
+last_tool=tools.pop()
+print(last_tool)
+print(tools)
+tool_box=["web_search","weather_api"]
+tool_box.append("weather")
+print(tool_box[-1])
+print(len(tool_box))

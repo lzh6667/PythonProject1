@@ -1,0 +1,32 @@
+# Python 虚拟环境
+.venv/
+venv/
+env/
+
+# PyCharm / IntelliJ 配置
+.idea/
+
+# Python 字节码 / 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 测试 / 覆盖率
+.pytest_cache/
+.coverage
+htmlcov/
+
+# 分发 / 打包
+build/
+dist/
+*.egg-info/
+*.egg
+
+# 类型检查
+.mypy_cache/
+.ruff_cache/
+
+# 操作系统杂项
+.DS_Store
+Thumbs.db
